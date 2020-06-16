@@ -1,12 +1,12 @@
 {
-    "name": "samarkchaisangun/t2p-support",
+    "name": "chatupont2p/t2p-support",
     "description": "For Support other project",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "samark chaisangun",
-            "email": "samarkchsngn@gmail.com"
+            "name": "chatupon aedrood",
+            "email": "chatupon@t2pco.com"
         }
     ],
     "minimum-stability": "stable",
