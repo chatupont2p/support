@@ -13,7 +13,7 @@ Usage
 Add t2p support to `composer.json` either by running `composer require chatupont2p/t2p-support` or by defining it manually:
 
     "require": {
-       "chatupont2p/t2p-support": "^0.0.2"
+       "chatupont2p/t2p-support": "dev-master"
     }
 
 Reinstall dependencies: `composer install`
